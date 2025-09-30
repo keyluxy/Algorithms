@@ -5,7 +5,7 @@
     capacity - объем массива (size <= capacity)
     type - тип данных
 
-Array: 
+## Array: 
     size int
     capacity int
     type int
