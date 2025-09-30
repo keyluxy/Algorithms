@@ -15,4 +15,4 @@
     append() - вставка в конец, O(1)
     remove(index) - удаление элемента из массива, O(n)
 
-                          ![img.png](img.png)
+![img.png](img.png)
